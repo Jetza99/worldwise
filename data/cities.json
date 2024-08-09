@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "0558",
+      "cityName": "Kelibia",
+      "country": "Tunisia",
+      "emoji": "🇹🇳",
+      "date": "2024-08-05T12:38:56.318Z",
+      "notes": "cool beans",
+      "position": {
+        "lat": "36.83610551915598",
+        "lng": "11.1016845703125"
+      }
+    },
+    {
+      "id": "58eb",
+      "cityName": "Valletta",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2024-08-05T12:41:33.113Z",
+      "notes": "hanchoun",
+      "position": {
+        "lat": "35.90027424440018",
+        "lng": "14.508819580078127"
+      }
+    },
+    {
+      "id": "e70f",
+      "cityName": "Teti",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-08-05T14:05:32.719Z",
+      "notes": "essardina ya baba",
+      "position": {
+        "lat": "40.113349406801376",
+        "lng": "9.074707031250002"
+      }
+    }
+  ]
+}
